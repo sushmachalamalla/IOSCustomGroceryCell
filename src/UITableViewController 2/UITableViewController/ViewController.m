@@ -79,7 +79,7 @@ static NSString * const cellIdentifier = @"MyCustomCell";
     
     
 
-        [self performSegueWithIdentifier:@"firstSegue" sender:self];
+        [self performSegueWithIdentifier:@"groceryDetailSegue" sender:self];
    
     
 

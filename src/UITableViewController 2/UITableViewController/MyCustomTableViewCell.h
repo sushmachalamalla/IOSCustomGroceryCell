@@ -12,6 +12,6 @@
 
 @property (weak, nonatomic) IBOutlet UILabel *displayLabel;
 
-- (IBAction)switch:(id)sender;
+
 
 @end
